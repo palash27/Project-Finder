@@ -1,0 +1,66 @@
+.head {
+  text-align: center;
+  font-size: 38px;
+  font-family: Sans-serif;
+  color: rgba(72, 67, 73, 1);
+}
+.textfield1 {
+  width: 641.5px;
+  height: 57px;
+}
+.label1 {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+  padding-right: 50px;
+  padding-left: 309px;
+}
+.label2 {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+  padding-right: 50px;
+  padding-left: 247px;
+  padding-top: 28px;
+}
+.custom-select {
+  color: rgba(18, 182, 166, 1);
+  width: 238px;
+  display: inline-block;
+}
+.label3 {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.textfield3 {
+  display: inline-block;
+  width: 147px;
+  height: 57px;
+  padding-top: 28px;
+}
+.label4 {
+  font-size: 24px;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+  padding-left: 254px;
+  padding-right: 50px;
+}
+.textfield4 {
+  width: 641px;
+  height: 107px;
+}
+#row {
+  display: inline-block;
+}
+#button {
+  color: rgba(18, 182, 166, 1);
+  border: 2px solid rgba(18, 182, 166, 1);
+  width: 180px;
+  height: 52px;
+  position: absolute;
+  right: 0;
+  font-family: sans-serif;
+}
